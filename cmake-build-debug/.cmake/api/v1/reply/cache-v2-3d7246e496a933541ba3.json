@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/vihrenpironski/Dropbox/Mac/Desktop/workspace/CProjects/cmake-build-debug"
+			"value" : "/Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C-projects/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/vihrenpironski/Dropbox/Mac/Desktop/workspace/CProjects"
+			"value" : "/Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C-projects"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -747,7 +747,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk"
+			"value" : "/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -795,7 +795,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "CProjects"
+			"value" : "C_projects"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1078,7 +1078,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "CPro_BINARY_DIR",
+			"name" : "C_projects_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1087,10 +1087,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/vihrenpironski/Dropbox/Mac/Desktop/workspace/CProjects/cmake-build-debug"
+			"value" : "/Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C-projects/cmake-build-debug"
 		},
 		{
-			"name" : "CPro_IS_TOP_LEVEL",
+			"name" : "C_projects_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1102,7 +1102,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "CPro_SOURCE_DIR",
+			"name" : "C_projects_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1111,79 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/vihrenpironski/Dropbox/Mac/Desktop/workspace/CProjects"
-		},
-		{
-			"name" : "CProjects_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/vihrenpironski/Dropbox/Mac/Desktop/workspace/CProjects/cmake-build-debug"
-		},
-		{
-			"name" : "CProjects_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "CProjects_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/vihrenpironski/Dropbox/Mac/Desktop/workspace/CProjects"
-		},
-		{
-			"name" : "C_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/vihrenpironski/Dropbox/Mac/Desktop/workspace/CProjects/cmake-build-debug"
-		},
-		{
-			"name" : "C_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "C_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/vihrenpironski/Dropbox/Mac/Desktop/workspace/CProjects"
+			"value" : "/Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C-projects"
 		}
 	],
 	"kind" : "cache",
