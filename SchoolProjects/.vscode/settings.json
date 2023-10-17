@@ -1,4 +1,7 @@
 {
+    "C_Cpp.errorSquiggles": "Enable",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
     "files.associations": {
         "iostream": "cpp"
     }
