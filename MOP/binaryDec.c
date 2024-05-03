@@ -1,0 +1,34 @@
+#include <stdio.h>
+
+
+int binaryToDec(int binary)
+{
+	int dec = 0 , digit,  temp;
+	int base = 1;
+
+	temp = binary;
+	while(temp != 0)
+	{	
+		digit = temp % 10;
+		temp /= 10;
+
+		dec += digit * base;
+		base = base * 2;
+	}
+
+	return dec;
+}
+int main()
+{
+	int binary;
+	printf("Input a binary number: ");
+	scanf("%d",&binary);
+	
+	int dec = binaryToDec(binary);
+	printf("The decimal value is: %d\n", dec);
+	return 0;
+}
+
+
+
+

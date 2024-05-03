@@ -71,6 +71,37 @@ build maxArray: C_EXECUTABLE_LINKER__maxArray_Debug CMakeFiles/maxArray.dir/maxA
   TARGET_FILE = maxArray
   TARGET_PDB = maxArray.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target rectangles
+
+
+#############################################
+# Order-only phony target for rectangles
+
+build cmake_object_order_depends_target_rectangles: phony || CMakeFiles/rectangles.dir
+
+build CMakeFiles/rectangles.dir/rectangles.c.o: C_COMPILER__rectangles_unscanned_Debug /Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C_projects/CIntro/rectangles.c || cmake_object_order_depends_target_rectangles
+  DEP_FILE = CMakeFiles/rectangles.dir/rectangles.c.o.d
+  FLAGS = -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/rectangles.dir
+  OBJECT_FILE_DIR = CMakeFiles/rectangles.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target rectangles
+
+
+#############################################
+# Link the executable rectangles
+
+build rectangles: C_EXECUTABLE_LINKER__rectangles_Debug CMakeFiles/rectangles.dir/rectangles.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+  OBJECT_DIR = CMakeFiles/rectangles.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = rectangles
+  TARGET_PDB = rectangles.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -105,7 +136,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C_projects/CIntro/cmake-build-debug
 
-build all: phony maxArray
+build all: phony maxArray rectangles
 
 # =============================================================================
 # Built-in targets

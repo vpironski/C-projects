@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "CIntro",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -41,6 +43,13 @@
 					"id" : "maxArray::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-maxArray-Debug-d9f0b0debe6e81eb4be9.json",
 					"name" : "maxArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rectangles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rectangles-Debug-aca2926bea0888ec23c8.json",
+					"name" : "rectangles",
 					"projectIndex" : 0
 				}
 			]

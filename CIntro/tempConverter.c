@@ -1,6 +1,12 @@
+#include <errno.h>
+#include <fcntl.h>
 #include <stdio.h>
+#include <unistd.h>
+#include <string.h>
 
 int main(){
+
+    int a = open()
     float fahr,celsius;
     int lower,upper,step;
 

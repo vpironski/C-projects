@@ -1,3 +1,4 @@
 /Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C_projects/CIntro/cmake-build-debug/CMakeFiles/maxArray.dir
+/Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C_projects/CIntro/cmake-build-debug/CMakeFiles/rectangles.dir
 /Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C_projects/CIntro/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/vihrenpironski/Dropbox/Mac/Documents/Workspace/C_projects/CIntro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
